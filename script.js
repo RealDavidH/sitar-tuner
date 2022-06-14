@@ -6,7 +6,7 @@ const notes = {
     "ma" : new Audio("assets/audio/T6_and_T7.mp3"),
     "Pa" : new Audio("assets/audio/T8.mp3"),
     "dha" : new Audio("assets/audio/T9.mp3"),
-    "Ni" : new Audio("assets/audio/T10.mp3"),
+    "t10" : new Audio("assets/audio/T10.mp3"),
     "t11" : new Audio("assets/audio/T11.mp3"),
     "Ra" : new Audio("assets/audio/T12.mp3"),
     "t13" : new Audio("assets/audio/T13.mp3"),
